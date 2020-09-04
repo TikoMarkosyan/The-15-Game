@@ -1,0 +1,18 @@
+.bigtable{
+    margin: auto;
+    width: 600px;
+    border: 1px solid #4e748b;
+    height: 600px;
+    background-color: black;
+}
+.thnumber{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #4e748b;
+    color: white;
+}
+.empty{
+    width: 150px;
+    height: 150px;
+    color: white;
+}
